@@ -1,14 +1,53 @@
----
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: Jacumba Menu
+    url: https://www.netlifycms.org/
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring art
+      back into commercial design. It’s our dream to build dexterous brands that
+      pair esoteric poetry with a modern tongue for conscious, inpsired,
+      relevant market expression. Our nose leads us to like-minds who share a
+      sparkle in the eye. We find their hands filled with a labour of love. By
+      learning the ways of their craft and how their dreams touch ground with
+      reality, we find the contours that define it’s outer shape, and we journey
+      deep to the particles of it’s creation. The diversity of this handy work
+      has no limit. We are the ghost in the machine.
+    image: /static/img/jacumba_menu.jpg
+  - title: Jacumba Compendium
+    url: " https://www.11ty.dev/"
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring art
+      back into commercial design. It’s our dream to build dexterous brands that
+      pair esoteric poetry with a modern tongue for conscious, inpsired,
+      relevant market expression. Our nose leads us to like-minds who share a
+      sparkle in the eye. We find their hands filled with a labour of love. By
+      learning the ways of their craft and how their dreams touch ground with
+      reality, we find the contours that define it’s outer shape, and we journey
+      deep to the particles of it’s creation. The diversity of this handy work
+      has no limit. We are the ghost in the machine.
+    image: /static/img/jacumba_compendium.jpg
+  - title: Ayu
+    url: https://github.com/alpinejs/alpine
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring art
+      back into commercial design. It’s our dream to build dexterous brands that
+      pair esoteric poetry with a modern tongue for conscious, inpsired,
+      relevant market expression. Our nose leads us to like-minds who share a
+      sparkle in the eye. We find their hands filled with a labour of love. By
+      learning the ways of their craft and how their dreams touch ground with
+      reality, we find the contours that define it’s outer shape, and we journey
+      deep to the particles of it’s creation. The diversity of this handy work
+      has no limit. We are the ghost in the machine.
+    image: /static/img/ayu_rose.jpg
+  - title: Loco Love
+    url: https://tailwindcss.com/
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring art
+      back into commercial design. It’s our dream to build dexterous brands that
+      pair esoteric poetry with a modern tongue for conscious, inpsired,
+      relevant market expression. Our nose leads us to like-minds who share a
+      sparkle in the eye. We find their hands filled with a labour of love. By
+      learning the ways of their craft and how their dreams touch ground with
+      reality, we find the contours that define it’s outer shape, and we journey
+      deep to the particles of it’s creation. The diversity of this handy work
+      has no limit. We are the ghost in the machine.
+    image: /static/img/loco_saltedcaramel.jpg
