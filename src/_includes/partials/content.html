@@ -1,17 +1,19 @@
-<div class="w-full"  data-isotope='{ "itemSelector": ".iso-item", "layoutMode": "masonry" }'>
+<div id="home-grid" class="w-full">
+
+    <div class="iso-sizer w-1/12"></div>
 
     {% if quicklinks.links %}
 
         {% for item in quicklinks.links %}
-            <!-- <a href="{{item.url}}" target="_blank" class="p-5 border rounded border-gray-200 hover:border-purple-400">
-                <h3>{{item.title}}
-                    →</h3>
-                <p>{{item.desc}}</p>
-            </a> -->
+            {% if item.gridSize == '' %}
+                {% set gridSize = 'w-1/2' %}
+            {% else %}
+                {% set gridSize = item.gridSize %}
+            {% endif %}
 
-            <div class="iso-item w-1/2">
-                <img class="h-auto max-w-full " src="{{item.image}}" alt="image description">    
-                <p class="text-xs">{{item.desc}}</p>
+            <div class="iso-item {{ gridSize }} float-left">
+                <img class="h-auto w-full max-w-full" src="{{item.image}}" alt="{{item.desc}}">    
+                <p class="">{{item.desc}}</p>
             </div>
             
 

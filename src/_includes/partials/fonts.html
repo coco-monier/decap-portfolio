@@ -1,0 +1,13 @@
+{% if fonts.body_font_woff != null or fonts.body_font_woff2 != null %}
+<style>
+@font-face {   
+    font-family: '{{ fonts.bodyFontName }}';  
+    src: {% if fonts.body_font_woff != null %}url('{{ fonts.body_font_woff }}') format("woff"){% endif %}{% if fonts.body_font_woff2 != null %}, url('{{ fonts.body_font_woff2 }}') format("woff2"){% endif %};
+    font-weight: normal;
+    font-style: normal;
+ }
+ body {
+    font-family: '{{ fonts.bodyFontName }}';  
+}
+</style>
+{% endif %} 

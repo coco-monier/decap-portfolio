@@ -1,10 +1,3 @@
----
 items:
-  - text: Projects
-    url: "#"
-  - text: Process
-    url: "#"
   - text: Contact
-    url: "#"
-  - text: Blog
-    url: "/blog"
+    url: mailto:info@monier.studio

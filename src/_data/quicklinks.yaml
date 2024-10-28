@@ -1,45 +1,124 @@
 links:
-  - title: Jacumba Menu
-    url: https://www.netlifycms.org/
-    desc: We believe a visual vocabulary can work as a family, but the subtleties
-      lay in how we subvert the monotonous zietgiests of identity and bring art
-      back into commercial design. It’s our dream to build dexterous brands that
-      pair esoteric poetry with a modern tongue for conscious, inpsired,
-      relevant market expression. Our nose leads us to like-minds who share a
-      sparkle in the eye. We find their hands filled with a labour of love. By
-      learning the ways of their craft and how their dreams touch ground with
-      reality, we find the contours that define it’s outer shape, and we journey
-      deep to the particles of it’s creation. The diversity of this handy work
-      has no limit. We are the ghost in the machine.
-    image: /static/img/jacumba_menu.jpg
-  - title: Jacumba Compendium
-    url: " https://www.11ty.dev/"
-    desc: We believe a visual vocabulary can work as a family, but the subtleties
-      lay in how we subvert the monotonous zietgiests of identity and bring art
-      back into commercial design. It’s our dream to build dexterous brands that
-      pair esoteric poetry with a modern tongue for conscious, inpsired,
-      relevant market expression. Our nose leads us to like-minds who share a
-      sparkle in the eye. We find their hands filled with a labour of love. By
-      learning the ways of their craft and how their dreams touch ground with
-      reality, we find the contours that define it’s outer shape, and we journey
-      deep to the particles of it’s creation. The diversity of this handy work
-      has no limit. We are the ghost in the machine.
-    image: /static/img/jacumba_compendium.jpg
-  - title: Ayu
-    url: https://github.com/alpinejs/alpine
-    desc: We believe a visual vocabulary can work as a family, but the subtleties
-      lay in how we subvert the monotonous zietgiests of identity and bring art
-      back into commercial design. It’s our dream to build dexterous brands that
-      pair esoteric poetry with a modern tongue for conscious, inpsired,
-      relevant market expression. Our nose leads us to like-minds who share a
-      sparkle in the eye. We find their hands filled with a labour of love. By
-      learning the ways of their craft and how their dreams touch ground with
-      reality, we find the contours that define it’s outer shape, and we journey
-      deep to the particles of it’s creation. The diversity of this handy work
-      has no limit. We are the ghost in the machine.
-    image: /static/img/ayu_rose.jpg
   - title: Loco Love
-    url: https://tailwindcss.com/
+    url: ""
+    desc: No words are spoken, but there’s a conversation happening — one that’s
+      been unfolding for centuries, passed from hand to hand, breath to breath.
+      It’s in the taste of something old and sacred, something that holds space
+      for more than just sweetness. It’s the alchemy of it all, the quiet magic
+      that turns the ordinary into something else, something more. You can feel
+      it, the way it wraps itself around you. Not a weight, but a presence, like
+      love that doesn’t need to speak to be understood. It moves with the grace
+      of a story half-remembered, a memory that lingers at the edge of your
+      mind, just out of reach. You don’t chase it. You let it come to you, like
+      the tide, like the light that filters through the trees just before dusk.
+    image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a.gif
+    gridSize: w-7/12
+  - title: Cloud Hidden
+    url: ""
+    desc: Cloud Hidden
+    image: /static/img/cloudhidden_product_february2024_2_1860x2790_crop_center.jpg
+    gridSize: w-5/12
+  - title: All that remains
+    url: ""
+    desc: A hand reaches out, barely brushing against the petals of a flower too
+      wild to be named. The air hums with a kind of knowing, not loud, but
+      present, steady like the heartbeat of the earth. You don’t notice when the
+      shift happens, when the familiar melts away into something softer,
+      something richer, something that feels like it’s always been here,
+      waiting. Time bends, stretches, holds you in place. You can’t rush through
+      this, not here.
+    image: /static/img/allthatremains_branded.jpg
+    gridSize: w-7/12
+  - title: Cloud Hidden
+    url: ""
+    desc: illumination and diffusion. Sunlight pouring through a shōji screen in a
+      tea house. Something to be felt, not spoken of. Architecture and the play
+      of light. A captivating presence and a sense of stillness.
+    image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
+    gridSize: w-5/12
+  - title: Loco Love
+    image: /static/img/loco-scene.webp
+    gridSize: w-5/12
+    desc: This is where love lives. Not the kind written in books or whispered in
+      the dark, but the kind that breathes, untamed and uncontainable. It dances
+      on the edges of what you think you know, inviting you to step a little
+      closer, to lean in just enough to catch its rhythm.
+  - image: /static/img/selfpub_brandmark.jpg
+    desc: Symbols, always symbols, passed back and forth, gathering dust and meaning
+      as they travel. They aren’t here to decorate — they’re here to nudge, to
+      remind you that the rulebook was never yours to follow. A glance down at
+      the bracelet as you laugh at the wrong moment, as you cry in a meeting
+      because it all matters too much or not at all. The pieces move with you,
+      breathe with you. You’re not a statue, your life isn’t a gallery, and the
+      story isn’t finished.
+    title: Self published
+    gridSize: w-7/12
+  - title: Self published
+    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
+    gridSize: w-3/12
+  - title: Self published
+    image: /static/img/self_published_2up.jpg
+    gridSize: w-3/12
+    desc: There’s a ring on your finger, but it isn’t just metal. It holds the
+      weight of a hundred stories whispered into the night. Not finished, not
+      polished — just like you, still writing, still collecting. It moves with
+      you, catching light like a secret you haven’t told anyone yet. The kind of
+      secret that feels too wild to tame, too true to share, but here it is,
+      worn on your skin, wrapped around your pulse.
+  - title: Wide Open Road
+    image: /static/img/social5.png
+    desc: Wake up to your destiny in all its beauty and ugliness. In whatever form
+      momentum means for you. Wake up to the movement that emancipates your from
+      these endless bardo boredom cycles of life that we all know too well.
+    gridSize: w-4/12
+  - title: Wide Open Road
+    image: /static/img/img_4016.jpg
+    gridSize: w-7/12
+  - title: Wide Open Road
+    image: /static/img/fallen-angels-edm.gif
+    gridSize: w-2/12
+  - title: Maurie and Eve
+    image: /static/img/me-workmark.gif
+    desc: This space—between you and the world—is where the future grows, quietly
+      and without fanfare, rooted in choices made with intention, with care. You
+      may not see it all, but you feel it in the weight of the fabric, in the
+      way it rests against your skin, in the way it asks you to consider the
+      hands that made it, the earth that birthed it. Nothing here is taken
+      lightly, and yet, there’s a softness to it all, a quiet invitation to move
+      more gently through the world, to tread lightly, knowing that each step
+      leaves a trace.
+    gridSize: w-full
+  - title: Orchard Street
+    gridSize: w-6/12
+    desc: There is a pulse deep within the earth, steady and sure, mirroring the
+      quiet hum that moves through you, unnoticed but always present. You are
+      not separate from this pulse. It moves in you as it moves in the roots
+      that stretch through soil, in the leaves that catch the wind
+    image: /static/img/honey-and-prue-pond-large.jpg
+  - title: Krinklewood
+    desc: The vines, weathered and wise, grow with a patience born from the dance
+      between sun and soil, a slow exchange of elements that cannot be hurried.
+      Each root reaches deeper, not for more, but for what has always been
+      there, waiting just below the surface. Each root reaches deeper, not for
+      more, but for what has always been there, waiting just below the surface.
+    gridSize: w-3/12
+    image: /static/img/021121_krinklewood_0507_v2.jpg
+  - image: /static/img/social11.png
+    title: Wide Open Road
+    desc: Can work as a family, but the subtleties lay in how we subvert the
+      monotonous zietgiests of identity and bring
+    gridSize: w-2/12
+  - title: Krinklewood
+    image: /static/img/090323_krinklewood_914.jpg
+    gridSize: w-6/12
+  - title: Resilience
+    image: /static/img/resillience-a1-bananas.jpg
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring We
+      believe a visual vocabulary can work as a family, but the subtleties lay
+      in how we subvert the monotonous zietgiests of identity and bring
+    gridSize: w-5/12
+  - image: /static/img/jacumba_menu.jpg
     desc: We believe a visual vocabulary can work as a family, but the subtleties
       lay in how we subvert the monotonous zietgiests of identity and bring art
       back into commercial design. It’s our dream to build dexterous brands that
@@ -50,4 +129,32 @@ links:
       reality, we find the contours that define it’s outer shape, and we journey
       deep to the particles of it’s creation. The diversity of this handy work
       has no limit. We are the ghost in the machine.
-    image: /static/img/loco_saltedcaramel.jpg
+    gridSize: w-4/12
+    title: Jacumba Hot Springs
+  - title: Jacumba Hot Springs
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.jpg
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring We
+      believe a visual vocabulary can work as a family, but the subtleties lay
+      in how we subvert the monotonous zietgiests of identity and bring
+    gridSize: w-6/12
+  - title: Jacumba Hot Springs
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-4.jpg
+    desc: We believe a visual vocabulary can work as a family
+    gridSize: w-3/12
+  - title: Of The Sun
+    image: /static/img/ofthesun.jpg
+    desc: We believe a visual vocabulary can work as a family, but the subtleties
+      lay in how we subvert the monotonous zietgiests of identity and bring art
+      back into commercial design. It’s our dream to build dexterous brands that
+      pair esoteric poetry with a modern tongue for conscious, inpsired,
+      relevant market expression. Our nose leads us to like-minds who share a
+      sparkle in the eye. We find their hands filled with a labour of love. By
+      learning the ways of their craft and how their dreams touch ground with
+      reality, we find the contours that define it’s outer shape, and we journey
+      deep to the particles of it’s creation. The diversity of this handy work
+      has no limit. We are the ghost in the machine.
+    gridSize: w-4/12
+  - image: /static/img/one_eleven_marble.png.jpg
+    title: One Eleven
+    gridSize: w-6/12

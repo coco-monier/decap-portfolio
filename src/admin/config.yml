@@ -47,20 +47,21 @@ collections:
             fields:
               - { label: Title, name: text, widget: string }
               - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
+      - label: "Homepage Images"
         name: "links"
         file: "src/_data/quicklinks.yaml"
         fields:
-          - label: Nav Items
+          - label: Home image
             name: links
             widget: list
             collapsed: false
             fields:
-              - { label: Title, name: title, widget: string }
-              - { label: URL, name: url, widget: string }
-              - { label: Description, name: desc, widget: string }
+              - { label: Title, name: title, widget: string, required: false }
+              - { label: URL, name: url, widget: string, required: false }
+              - { label: Description, name: desc, widget: string, required: false }
               - { label: Image, name: image, widget: image }
-      - label: "Meta Settings"
+              - { label: Grid Size, name: gridSize, widget: "select", options: ["w-1/12","w-2/12","w-3/12","w-4/12","w-5/12","w-6/12","w-7/12","w-full"]}
+      - label: "Global Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
         fields:
@@ -68,3 +69,12 @@ collections:
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
           - { label: Logo, name: logo, widget: image }
+          - { label: Body Font, name: body_font, widget: file }
+      - label: "Custom Fonts"
+        name: "Font settings"
+        file: "src/_data/fonts.yaml"
+        fields:
+          - { label: Body Font Name, name: bodyFontName, widget: string, required: false }
+          - { label: Body Font woff, name: body_font_woff, widget: file, required: false }        
+          - { label: Body Font woff2, name: body_font_woff2, widget: file, required: false }          
+          
