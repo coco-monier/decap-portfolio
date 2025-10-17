@@ -26,15 +26,30 @@
     {% include "./partials/footer.html" %}
 
     <script src="/static/js/isotope.pkgd.min.js"></script>
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <script>
-      var elem = document.querySelector('#home-grid');
-      var iso = new Isotope( elem, {
-        // options
-        itemSelector: '.iso-item',
-        percentPosition: true,
-        masonry: {
-          // use outer width of grid-sizer for columnWidth
-          columnWidth: '.iso-sizer'
+      var iso;
+
+      document.addEventListener('DOMContentLoaded', function () {
+        var elem = document.querySelector('#home-grid');
+        if (!elem) {
+          return;
+        }
+
+        iso = new Isotope(elem, {
+          itemSelector: '.iso-item',
+          percentPosition: true,
+          masonry: {
+            // use outer width of grid-sizer for columnWidth
+            columnWidth: '.iso-sizer'
+          }
+        });
+
+        if (typeof imagesLoaded === 'function') {
+          // wait for images so initial layout matches final sizes
+          imagesLoaded(elem, function () {
+            iso.layout();
+          });
         }
       });
     </script>
