@@ -1,13 +1,4 @@
 links:
-  - title: Cloud Hidden
-    url: ""
-    desc: The depth of the simple act of tea is subtle and needs to be felt to be
-      understood. All we stand for and aim to give is contained within our
-      simple and humble forms. There’s a rustic simplicity and quiet contained
-      in natural texture. A sensation to be felt. A calling to pause and seek
-      the silence within.
-    image: /static/img/cloudhidden_product_february2024_2_1860x2790_crop_center.jpg
-    gridSize: w-5/12
   - title: Loco Love
     url: ""
     desc: Shed the anxiety. Live in your heart. Feel, feel, feel. Feel the comfort
@@ -19,6 +10,15 @@ links:
       her back.
     image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
     gridSize: w-7/12
+  - title: Cloud Hidden
+    url: ""
+    desc: The depth of the simple act of tea is subtle and needs to be felt to be
+      understood. All we stand for and aim to give is contained within our
+      simple and humble forms. There’s a rustic simplicity and quiet contained
+      in natural texture. A sensation to be felt. A calling to pause and seek
+      the silence within.
+    image: /static/img/cloudhidden_product_february2024_2_1860x2790_crop_center.jpg
+    gridSize: w-5/12
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
