@@ -9,21 +9,26 @@ links:
       Nature will always bring you here. The calm knowing. She loves you. Love
       her back.
     image: /static/img/luvio-gif.gif
-    gridSize: w-6/12
-  - title: Loco Love
-    url: ""
-    desc: ""
-    image: /static/img/250925_locolove15946-1.jpg
-    gridSize: w-4/12
+    gridSize: w-5/12
   - title: Loco Love
     image: /static/img/loco-scene.webp
-    gridSize: w-2/12
+    gridSize: w-4/12
     desc: Myths are at once familiar and unknowable. Humans by nature are
       mythologically inclined. Despite our increasingly logical society, we
       retain a perpetual desire for the mystery, the magic and the unexplainable
       in life. We play with the idea of a golden age. But instead of glorifying
       the past and condemning the present and future, we twist this myth into a
       more optimistic vision.
+  - title: Loco Love
+    url: ""
+    desc: xxxxx Myths are at once familiar and unknowable. Humans by nature are
+      mythologically inclined. Despite our increasingly logical society, we
+      retain a perpetual desire for the mystery, the magic and the unexplainable
+      in life. We play with the idea of a golden age. But instead of glorifying
+      the past and condemning the present and future, we twist this myth into a
+      more optimistic vision.
+    image: /static/img/250925_locolove15946-1.jpg
+    gridSize: w-3/12
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
