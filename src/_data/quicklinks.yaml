@@ -29,6 +29,13 @@ links:
       more optimistic vision.
     image: /static/img/250925_locolove15946-1.jpg
     gridSize: w-3/12
+  - gridSize: w-2/12
+    desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
+      be understood. All we stand for and aim to give is contained within our
+      simple and humble forms. There’s a rustic simplicity and quiet contained
+      in natural texture. A sensation to be felt. A calling to pause and seek
+      the silence within.
+    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
@@ -42,7 +49,7 @@ links:
       deep to the particles of it’s creation. The diversity of this handy work
       has no limit. We are the ghost in the machine.
     image: /static/img/monier_all-that-remains.png
-    gridSize: w-7/12
+    gridSize: w-5/12
   - title: Yesmina
     image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
