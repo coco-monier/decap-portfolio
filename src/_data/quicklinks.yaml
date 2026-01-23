@@ -8,17 +8,22 @@ links:
       is it a de-ja-vu feedback loop of that feeling of being totally present.
       Nature will always bring you here. The calm knowing. She loves you. Love
       her back.
-    image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
-    gridSize: w-7/12
-  - title: Cloud Hidden
+    image: /static/img/luvio-gif.gif
+    gridSize: w-6/12
+  - title: Loco Love
     url: ""
-    desc: The depth of the simple act of tea is subtle and needs to be felt to be
-      understood. All we stand for and aim to give is contained within our
-      simple and humble forms. There’s a rustic simplicity and quiet contained
-      in natural texture. A sensation to be felt. A calling to pause and seek
-      the silence within.
-    image: /static/img/cloudhidden_product_february2024_2_1860x2790_crop_center.jpg
-    gridSize: w-5/12
+    desc: ""
+    image: /static/img/250925_locolove15946-1.jpg
+    gridSize: w-4/12
+  - title: Loco Love
+    image: /static/img/loco-scene.webp
+    gridSize: w-2/12
+    desc: Myths are at once familiar and unknowable. Humans by nature are
+      mythologically inclined. Despite our increasingly logical society, we
+      retain a perpetual desire for the mystery, the magic and the unexplainable
+      in life. We play with the idea of a golden age. But instead of glorifying
+      the past and condemning the present and future, we twist this myth into a
+      more optimistic vision.
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
@@ -31,8 +36,15 @@ links:
       reality, we find the contours that define it’s outer shape, and we journey
       deep to the particles of it’s creation. The diversity of this handy work
       has no limit. We are the ghost in the machine.
-    image: /static/img/allthatremains_branded.jpg
+    image: /static/img/monier_all-that-remains.png
     gridSize: w-7/12
+  - title: Yesmina
+    image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.jpg
+    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
+      a becoming. Through the release of restriction, we return to the raw and
+      intuitive — a subtle rebellion against self-imposed limits, and an embrace
+      of freedom as a state of being.
+    gridSize: w-4/12
   - title: Cloud Hidden
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
@@ -40,17 +52,12 @@ links:
       simple and humble forms. There’s a rustic simplicity and quiet contained
       in natural texture. A sensation to be felt. A calling to pause and seek
       the silence within.
-    image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
-    gridSize: w-5/12
-  - title: Loco Love
-    image: /static/img/loco-scene.webp
-    gridSize: w-5/12
-    desc: Myths are at once familiar and unknowable. Humans by nature are
-      mythologically inclined. Despite our increasingly logical society, we
-      retain a perpetual desire for the mystery, the magic and the unexplainable
-      in life. We play with the idea of a golden age. But instead of glorifying
-      the past and condemning the present and future, we twist this myth into a
-      more optimistic vision.
+    image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
+    gridSize: w-3/12
+  - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
+    title: Cloud Hidden
+    gridSize: w-2/12
+    desc: xxxxxx
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -98,17 +105,6 @@ links:
     image: /static/img/fallen-angels-edm.gif
     gridSize: w-2/12
     desc: ""
-  - title: Maurie and Eve
-    image: /static/img/me-workmark.gif
-    desc: This space—between you and the world—is where the future grows, quietly
-      and without fanfare, rooted in choices made with intention, with care. You
-      may not see it all, but you feel it in the weight of the fabric, in the
-      way it rests against your skin, in the way it asks you to consider the
-      hands that made it, the earth that birthed it. Nothing here is taken
-      lightly, and yet, there’s a softness to it all, a quiet invitation to move
-      more gently through the world, to tread lightly, knowing that each step
-      leaves a trace.
-    gridSize: w-full
   - title: Orchard Street
     gridSize: w-6/12
     desc: There is a pulse deep within the earth, steady and sure, mirroring the
@@ -169,17 +165,3 @@ links:
       realm of what is felt....the unseen—for it's here we discover the hidden
       treasures of life and unlock new dimensions of experience.
     gridSize: w-3/12
-  - title: Of The Sun
-    image: /static/img/ofthesun.jpg
-    desc: We want to explore that feeling when you sink into a hotel bed. The duties
-      of life no longer at your door. It’s positive, free and joyful and despite
-      at first glance appearing to lean into the vintage, has simplified
-      expressions that actually create a very modern, ownable brand that has a
-      rich and unique voice in the landscape.
-    gridSize: w-4/12
-  - image: /static/img/one_eleven_marble.png.jpg
-    title: One Eleven
-    gridSize: w-6/12
-    desc: We’re consumed by the business of our lives, but if you look beyond the
-      mirage surface of doingness you’ll find a superbloom of beingness. Allow
-      yourself to be hypnotised by the magic that really lives here.
