@@ -91,9 +91,14 @@ links:
       eye of the needle, in the central seat of the soul. Extend it out slightly
       and you find yourself. The you that’s grounded here on this particular
       patch of earth with all its dirty history.
+  - image: /static/img/social11.png
+    title: Wide Open Road
+    desc: The patron saints of a spirited exhalation. Human reminders to dig deeper
+      to excavate some poetry out of the everyday existence.
+    gridSize: w-4/12
   - title: Wide Open Road
     image: /static/img/fallen-angels-edm.gif
-    gridSize: w-2/12
+    gridSize: w-1/12
     desc: ""
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
@@ -133,11 +138,6 @@ links:
       there, waiting just below the surface.
     gridSize: w-3/12
     image: /static/img/021121_krinklewood_0507_v2.jpg
-  - image: /static/img/social11.png
-    title: Wide Open Road
-    desc: The patron saints of a spirited exhalation. Human reminders to dig deeper
-      to excavate some poetry out of the everyday existence.
-    gridSize: w-2/12
   - title: Krinklewood
     image: /static/img/090323_krinklewood_914.jpg
     gridSize: w-7/12
