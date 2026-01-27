@@ -87,19 +87,10 @@ links:
       sense of existential freedom—where one is not constrained by societal
       norms, physical boundaries, or personal inhibitions.
     gridSize: w-3/12
-  - title: Self published
-    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
-    gridSize: w-3/12
-    desc: Constantly quest to listen more.
-  - title: Self published
-    image: /static/img/self_published_2up.jpg
-    gridSize: w-3/12
-    desc: Make the same mistake as many times as we bloody well like. Use words like
-      "bloody". Fix the broken stuff. Face the unfixable. Pass the power on.
-      Make something, anything. Occasionally follow the rules. Take deep
-      breaths. Call our parents, and if we can't, call someone else's. Keep
-      secrets (or at least whisper them . Learn how to bake bread (or at least
-      banana bread).
+  - title: Wide Open Road
+    image: /static/img/fallen-angels-edm.gif
+    gridSize: w-2/12
+    desc: ""
   - title: Wide Open Road
     image: /static/img/img_4016.jpg
     gridSize: w-7/12
@@ -113,10 +104,19 @@ links:
       eye of the needle, in the central seat of the soul. Extend it out slightly
       and you find yourself. The you that’s grounded here on this particular
       patch of earth with all its dirty history.
-  - title: Wide Open Road
-    image: /static/img/fallen-angels-edm.gif
-    gridSize: w-2/12
-    desc: ""
+  - title: Self published
+    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
+    gridSize: w-3/12
+    desc: Constantly quest to listen more.
+  - title: Self published
+    image: /static/img/self_published_2up.jpg
+    gridSize: w-3/12
+    desc: Make the same mistake as many times as we bloody well like. Use words like
+      "bloody". Fix the broken stuff. Face the unfixable. Pass the power on.
+      Make something, anything. Occasionally follow the rules. Take deep
+      breaths. Call our parents, and if we can't, call someone else's. Keep
+      secrets (or at least whisper them . Learn how to bake bread (or at least
+      banana bread).
   - title: Orchard Street
     gridSize: w-6/12
     desc: There is a pulse deep within the earth, steady and sure, mirroring the
