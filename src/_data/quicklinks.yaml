@@ -119,7 +119,7 @@ links:
       off, check the stars. Be still, look up, thank the moon. Stay weird.
       Hustle like a MF.
     title: Self published
-    gridSize: w-7/12
+    gridSize: w-5/12
   - title: Self published
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-4/12
@@ -133,6 +133,23 @@ links:
       breaths. Call our parents, and if we can't, call someone else's. Keep
       secrets (or at least whisper them . Learn how to bake bread (or at least
       banana bread).
+  - image: /static/img/jacumba_menu.jpg
+    desc: Instead of a mono-brand, we needed to create a world filled with mountains
+      and valleys, harmonies and tensions. A world that embodies both ancient
+      craftsmanship and a vibrant, modern hotel experience. Anything short of a
+      transcultural and temporal synthesis was going to fail to feel true to
+      what is happening here at Jacumba.
+    gridSize: w-4/12
+    title: Jacumba Hot Springs
+  - title: Loco Love
+    image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
+    desc: A mirage is a shimmering oasis of possibilities, where the boundaries
+      between the seen and unseen blur, and where transformative experiences
+      await those who dare venture into its ethereal embrace. Shifted
+      perspectives challenge the notion of what is visible and dives into the
+      realm of what is felt....the unseen—for it's here we discover the hidden
+      treasures of life and unlock new dimensions of experience.
+    gridSize: w-5/12
   - title: Orchard Street
     gridSize: w-6/12
     desc: There is a pulse deep within the earth, steady and sure, mirroring the
@@ -166,20 +183,10 @@ links:
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-5/12
-  - image: /static/img/jacumba_menu.jpg
-    desc: Instead of a mono-brand, we needed to create a world filled with mountains
-      and valleys, harmonies and tensions. A world that embodies both ancient
-      craftsmanship and a vibrant, modern hotel experience. Anything short of a
-      transcultural and temporal synthesis was going to fail to feel true to
-      what is happening here at Jacumba.
-    gridSize: w-4/12
-    title: Jacumba Hot Springs
-  - title: Jacumba Hot Springs
-    image: /static/img/monier_jacumba_one-page-promo_cd04-print-4.jpg
-    desc: A mirage is a shimmering oasis of possibilities, where the boundaries
-      between the seen and unseen blur, and where transformative experiences
-      await those who dare venture into its ethereal embrace. Shifted
-      perspectives challenge the notion of what is visible and dives into the
-      realm of what is felt....the unseen—for it's here we discover the hidden
-      treasures of life and unlock new dimensions of experience.
+  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
+    title: Cloud Hidden
+    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
+      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
+      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
+      copy xxxxx need copy xxxxx need copy "
     gridSize: w-3/12
