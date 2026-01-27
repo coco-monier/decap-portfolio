@@ -70,15 +70,6 @@ links:
     title: Cloud Hidden
     gridSize: w-4/12
     desc: xxxxxx
-  - image: /static/img/selfpub_brandmark.jpg
-    desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
-      listen more. Never support war zone diamonds. Only laugh at funny jokes.
-      Resist Captivity. Shun the tyranny of expectations. Cry at work..just
-      once. Never give up (Except if we're really really tired). Be kind, swipe
-      off, check the stars. Be still, look up, thank the moon. Stay weird.
-      Hustle like a MF.
-    title: Self published
-    gridSize: w-7/12
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
@@ -91,6 +82,15 @@ links:
     image: /static/img/fallen-angels-edm.gif
     gridSize: w-2/12
     desc: ""
+  - image: /static/img/selfpub_brandmark.jpg
+    desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
+      listen more. Never support war zone diamonds. Only laugh at funny jokes.
+      Resist Captivity. Shun the tyranny of expectations. Cry at work..just
+      once. Never give up (Except if we're really really tired). Be kind, swipe
+      off, check the stars. Be still, look up, thank the moon. Stay weird.
+      Hustle like a MF.
+    title: Self published
+    gridSize: w-7/12
   - title: Wide Open Road
     image: /static/img/img_4016.jpg
     gridSize: w-7/12
