@@ -91,16 +91,11 @@ links:
       eye of the needle, in the central seat of the soul. Extend it out slightly
       and you find yourself. The you that’s grounded here on this particular
       patch of earth with all its dirty history.
-  - image: /static/img/social11.png
-    title: Wide Open Road
-    desc: xxxxxx The patron saints of a spirited exhalation. Human reminders to dig
-      deeper to excavate some poetry out of the everyday existence. The patron
-      saints of a spirited exhalation. Human reminders to dig deeper to excavate
-      some poetry out of the everyday existence. The patron saints of a spirited
-      exhalation. Human reminders to dig deeper to excavate some poetry out of
-      the everyday existence. The patron saints of a spirited exhalation. Human
-      reminders to dig deeper to excavate some poetry out of the everyday
-      existence.
+  - title: Resilience
+    image: /static/img/resillience-a1-bananas.jpg
+    desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
+      something real (anything and everything can hold significance) in
+      imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-4/12
   - title: Wide Open Road
     image: /static/img/fallen-angels-edm.gif
@@ -157,6 +152,17 @@ links:
       realm of what is felt....the unseen—for it's here we discover the hidden
       treasures of life and unlock new dimensions of experience.
     gridSize: w-5/12
+  - image: /static/img/social11.png
+    title: Wide Open Road
+    desc: xxxxxx The patron saints of a spirited exhalation. Human reminders to dig
+      deeper to excavate some poetry out of the everyday existence. The patron
+      saints of a spirited exhalation. Human reminders to dig deeper to excavate
+      some poetry out of the everyday existence. The patron saints of a spirited
+      exhalation. Human reminders to dig deeper to excavate some poetry out of
+      the everyday existence. The patron saints of a spirited exhalation. Human
+      reminders to dig deeper to excavate some poetry out of the everyday
+      existence.
+    gridSize: w-4/12
   - title: Orchard Street
     gridSize: w-6/12
     desc: There is a pulse deep within the earth, steady and sure, mirroring the
@@ -184,9 +190,3 @@ links:
       eternity? Take care. Take care of each other. Take care of the earth. Be
       held by her and her heavenly bounty. And give back to her, far more than
       we take.
-  - title: Resilience
-    image: /static/img/resillience-a1-bananas.jpg
-    desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
-      something real (anything and everything can hold significance) in
-      imperfect, single colour prints. There’s no time to hesitate.
-    gridSize: w-5/12
