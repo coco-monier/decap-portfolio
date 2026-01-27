@@ -79,6 +79,14 @@ links:
       Hustle like a MF.
     title: Self published
     gridSize: w-7/12
+  - title: Wide Open Road
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
+    gridSize: w-3/12
   - title: Self published
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-3/12
@@ -92,14 +100,6 @@ links:
       breaths. Call our parents, and if we can't, call someone else's. Keep
       secrets (or at least whisper them . Learn how to bake bread (or at least
       banana bread).
-  - title: Wide Open Road
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-4/12
   - title: Wide Open Road
     image: /static/img/img_4016.jpg
     gridSize: w-7/12
