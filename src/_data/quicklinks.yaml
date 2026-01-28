@@ -51,7 +51,7 @@ links:
     image: /static/img/monier_all-that-remains.png
     gridSize: w-5/12
   - title: Yesmina
-    image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.jpg
+    image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.gif
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
       a becoming. Through the release of restriction, we return to the raw and
       intuitive — a subtle rebellion against self-imposed limits, and an embrace
@@ -69,7 +69,9 @@ links:
   - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
     title: Cloud Hidden
     gridSize: w-4/12
-    desc: xxxxxx
+    desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
+      copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
+      goes here xxxxxx copy goes here
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
@@ -101,11 +103,6 @@ links:
     image: /static/img/fallen-angels-edm.gif
     gridSize: w-2/12
     desc: ""
-  - title: Jacumba Hot Springs
-    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
-    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
-      stitch our world together in surprising and inspiring ways.
-    gridSize: w-4/12
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -114,7 +111,12 @@ links:
       off, check the stars. Be still, look up, thank the moon. Stay weird.
       Hustle like a MF.
     title: Self published
-    gridSize: w-5/12
+    gridSize: w-4/12
+  - title: Jacumba Hot Springs
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
+    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
+      stitch our world together in surprising and inspiring ways.
+    gridSize: w-4/12
   - image: /static/img/jacumba_menu.jpg
     desc: Instead of a mono-brand, we needed to create a world filled with mountains
       and valleys, harmonies and tensions. A world that embodies both ancient
