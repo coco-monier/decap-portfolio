@@ -125,6 +125,20 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs
+  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
+    title: Jacumba Hot Springs Hotel
+    url: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-2/12
+  - image: /static/img/menu-mock-up-v1.jpg
+    title: Jacumba Hot Springs Hotel
+    desc: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-3/12
   - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
     title: Cloud Hidden
     desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
@@ -153,7 +167,7 @@ links:
       perspectives challenge the notion of what is visible and dives into the
       realm of what is felt....the unseen—for it's here we discover the hidden
       treasures of life and unlock new dimensions of experience.
-    gridSize: w-5/12
+    gridSize: w-4/12
   - image: /static/img/social11.png
     title: Wide Open Road
     desc: xxxxxx The patron saints of a spirited exhalation. Human reminders to dig
@@ -192,3 +206,10 @@ links:
       eternity? Take care. Take care of each other. Take care of the earth. Be
       held by her and her heavenly bounty. And give back to her, far more than
       we take.
+  - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
+    gridSize: w-1/12
+    desc: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    title: Jacumba Hot Springs Hotel
