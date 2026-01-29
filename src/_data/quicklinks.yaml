@@ -50,13 +50,6 @@ links:
       has no limit. We are the ghost in the machine.
     image: /static/img/monier_all-that-remains.png
     gridSize: w-5/12
-  - title: Yesmina
-    image: /static/img/yesmina_comb.jpg
-    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
-      a becoming. Through the release of restriction, we return to the raw and
-      intuitive — a subtle rebellion against self-imposed limits, and an embrace
-      of freedom as a state of being.
-    gridSize: w-4/12
   - title: Cloud Hidden
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
@@ -65,6 +58,13 @@ links:
       in natural texture. A sensation to be felt. A calling to pause and seek
       the silence within.
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
+    gridSize: w-3/12
+  - title: Yesmina
+    image: /static/img/yesmina_comb2.jpg
+    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
+      a becoming. Through the release of restriction, we return to the raw and
+      intuitive — a subtle rebellion against self-imposed limits, and an embrace
+      of freedom as a state of being.
     gridSize: w-3/12
   - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
     title: Cloud Hidden
