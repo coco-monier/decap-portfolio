@@ -29,6 +29,13 @@ links:
       more optimistic vision.
     image: /static/img/250925_locolove15946-1.jpg
     gridSize: w-3/12
+  - title: Yesmina
+    image: /static/img/yesmina_comb2.jpg
+    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
+      a becoming. Through the release of restriction, we return to the raw and
+      intuitive — a subtle rebellion against self-imposed limits, and an embrace
+      of freedom as a state of being.
+    gridSize: w-5/12
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
@@ -42,15 +49,8 @@ links:
       deep to the particles of it’s creation. The diversity of this handy work
       has no limit. We are the ghost in the machine.
     image: /static/img/monier_all-that-remains.png
-    gridSize: w-5/12
-  - title: Yesmina
-    image: /static/img/yesmina_comb2.jpg
-    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
-      a becoming. Through the release of restriction, we return to the raw and
-      intuitive — a subtle rebellion against self-imposed limits, and an embrace
-      of freedom as a state of being.
     gridSize: w-4/12
-  - title: Cloud Hidden
+  - title: Cloud Hidden Vessel
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
       understood. All we stand for and aim to give is contained within our
@@ -60,17 +60,17 @@ links:
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
     gridSize: w-4/12
   - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
-    title: Cloud Hidden
+    title: Cloud Hidden Cakes
     gridSize: w-3/12
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
-  - title: Jacumba Hot Springs
+  - title: Jacumba Hot Springs Postcards
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-3/12
-  - title: Wide Open Road
+  - title: Wide Open Road Billboard
     image: /static/img/img_4016.jpg
     gridSize: w-5/12
     desc: Hold that spirit, that tiny crazy diamond. It will light the way. Keep it
@@ -89,7 +89,7 @@ links:
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-4/12
-  - title: Wide Open Road
+  - title: Wide Open Road Brick
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
       entire world, or even the universe, is open for exploration and
