@@ -71,13 +71,11 @@ links:
       the silence within.
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
     gridSize: w-4/12
-  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
-    title: Jacumba Hot Springs Hotel
-    url: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
-    gridSize: w-2/12
+  - title: Jacumba Hot Springs
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
+    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
+      stitch our world together in surprising and inspiring ways.
+    gridSize: w-3/12
   - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
     title: Cloud Hidden
     gridSize: w-3/12
@@ -120,11 +118,6 @@ links:
       Hustle like a MF.
     title: Self published
     gridSize: w-5/12
-  - title: Jacumba Hot Springs
-    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
-    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
-      stitch our world together in surprising and inspiring ways.
-    gridSize: w-3/12
   - image: /static/img/jacumba_menu.jpg
     desc: Instead of a mono-brand, we needed to create a world filled with mountains
       and valleys, harmonies and tensions. A world that embodies both ancient
@@ -133,6 +126,13 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs
+  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
+    title: Jacumba Hot Springs Hotel
+    url: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-2/12
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs Hotel
     desc: description goes here description goes here description goes here
