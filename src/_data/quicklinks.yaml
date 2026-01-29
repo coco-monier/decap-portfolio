@@ -36,6 +36,7 @@ links:
       in natural texture. A sensation to be felt. A calling to pause and seek
       the silence within.
     image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
+    title: Loco Love Christmas
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
@@ -50,6 +51,17 @@ links:
       has no limit. We are the ghost in the machine.
     image: /static/img/monier_all-that-remains.png
     gridSize: w-5/12
+  - title: Yesmina
+    image: /static/img/yesmina_comb2.jpg
+    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
+      a becoming. Through the release of restriction, we return to the raw and
+      intuitive — a subtle rebellion against self-imposed limits, and an embrace
+      of freedom as a state of being.
+    gridSize: w-3/12
+  - title: Wide Open Road
+    image: /static/img/fallen-angels-edm.gif
+    gridSize: w-2/12
+    desc: ""
   - title: Cloud Hidden
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
@@ -72,13 +84,6 @@ links:
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
-  - title: Yesmina
-    image: /static/img/yesmina_comb2.jpg
-    desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
-      a becoming. Through the release of restriction, we return to the raw and
-      intuitive — a subtle rebellion against self-imposed limits, and an embrace
-      of freedom as a state of being.
-    gridSize: w-3/12
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
@@ -106,10 +111,6 @@ links:
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-4/12
-  - title: Wide Open Road
-    image: /static/img/fallen-angels-edm.gif
-    gridSize: w-2/12
-    desc: ""
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
