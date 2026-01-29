@@ -72,6 +72,13 @@ links:
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
+  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
+    title: Cloud Hidden
+    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
+      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
+      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
+      copy xxxxx need copy xxxxx need copy "
+    gridSize: w-2/12
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
@@ -139,13 +146,6 @@ links:
       description goes here v description goes here v v description goes here
       description goes here v description goes here
     gridSize: w-2/12
-  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
-    title: Cloud Hidden
-    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
-      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
-      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
-      copy xxxxx need copy xxxxx need copy "
-    gridSize: w-3/12
   - title: Self published
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-4/12
