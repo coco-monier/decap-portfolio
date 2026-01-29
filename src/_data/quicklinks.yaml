@@ -58,7 +58,14 @@ links:
       in natural texture. A sensation to be felt. A calling to pause and seek
       the silence within.
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
-    gridSize: w-3/12
+    gridSize: w-4/12
+  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
+    title: Cloud Hidden
+    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
+      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
+      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
+      copy xxxxx need copy xxxxx need copy "
+    gridSize: w-2/12
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
@@ -72,13 +79,6 @@ links:
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
-  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
-    title: Cloud Hidden
-    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
-      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
-      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
-      copy xxxxx need copy xxxxx need copy "
-    gridSize: w-2/12
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
