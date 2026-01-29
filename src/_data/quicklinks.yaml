@@ -71,19 +71,19 @@ links:
       the silence within.
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
     gridSize: w-4/12
-  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
-    title: Cloud Hidden
-    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
-      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
-      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
-      copy xxxxx need copy xxxxx need copy "
-    gridSize: w-2/12
   - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
     title: Cloud Hidden
     gridSize: w-3/12
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
+  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
+    title: Jacumba Hot Springs Hotel
+    url: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-2/12
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
@@ -140,12 +140,12 @@ links:
       description goes here v description goes here v v description goes here
       description goes here v description goes here
     gridSize: w-4/12
-  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
-    title: Jacumba Hot Springs Hotel
-    url: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
+  - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
+    title: Cloud Hidden
+    desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
+      need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
+      xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
+      copy xxxxx need copy xxxxx need copy "
     gridSize: w-2/12
   - title: Self published
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
