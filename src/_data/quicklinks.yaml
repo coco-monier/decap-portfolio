@@ -60,7 +60,7 @@ links:
     gridSize: w-3/12
   - title: Wide Open Road
     image: /static/img/fallen-angels-edm.gif
-    gridSize: w-2/12
+    gridSize: w-1/12
     desc: ""
   - title: Cloud Hidden
     url: ""
