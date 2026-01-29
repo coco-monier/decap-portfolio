@@ -29,14 +29,6 @@ links:
       more optimistic vision.
     image: /static/img/250925_locolove15946-1.jpg
     gridSize: w-3/12
-  - gridSize: w-2/12
-    desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
-      be understood. All we stand for and aim to give is contained within our
-      simple and humble forms. There’s a rustic simplicity and quiet contained
-      in natural texture. A sensation to be felt. A calling to pause and seek
-      the silence within.
-    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
-    title: Loco Love Christmas
   - title: All that remains
     url: ""
     desc: We believe a visual vocabulary can work as a family, but the subtleties
@@ -58,10 +50,6 @@ links:
       intuitive — a subtle rebellion against self-imposed limits, and an embrace
       of freedom as a state of being.
     gridSize: w-4/12
-  - title: Wide Open Road
-    image: /static/img/fallen-angels-edm.gif
-    gridSize: w-1/12
-    desc: ""
   - title: Cloud Hidden
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
@@ -95,6 +83,14 @@ links:
       eye of the needle, in the central seat of the soul. Extend it out slightly
       and you find yourself. The you that’s grounded here on this particular
       patch of earth with all its dirty history.
+  - gridSize: w-2/12
+    desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
+      be understood. All we stand for and aim to give is contained within our
+      simple and humble forms. There’s a rustic simplicity and quiet contained
+      in natural texture. A sensation to be felt. A calling to pause and seek
+      the silence within.
+    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
+    title: Loco Love Christmas
   - title: Resilience
     image: /static/img/resillience-a1-bananas.jpg
     desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
@@ -140,6 +136,10 @@ links:
       description goes here v description goes here v v description goes here
       description goes here v description goes here
     gridSize: w-4/12
+  - title: Wide Open Road
+    image: /static/img/fallen-angels-edm.gif
+    gridSize: w-2/12
+    desc: ""
   - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
     title: Cloud Hidden
     desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
