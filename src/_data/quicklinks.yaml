@@ -66,6 +66,12 @@ links:
       xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
       copy xxxxx need copy xxxxx need copy "
     gridSize: w-2/12
+  - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
+    title: Cloud Hidden
+    gridSize: w-3/12
+    desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
+      copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
+      goes here xxxxxx copy goes here
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
@@ -73,12 +79,6 @@ links:
       intuitive — a subtle rebellion against self-imposed limits, and an embrace
       of freedom as a state of being.
     gridSize: w-3/12
-  - image: /static/img/jmp_cloudhidden_july2023_44_2100x.png
-    title: Cloud Hidden
-    gridSize: w-4/12
-    desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
-      copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
-      goes here xxxxxx copy goes here
   - title: Wide Open Road
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
