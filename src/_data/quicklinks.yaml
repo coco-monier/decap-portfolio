@@ -57,17 +57,19 @@ links:
     gridSize: w-2/12
     desc: ""
   - image: /static/img/screenshot2024-06-04alle13.14.46_480x.png.jpg
-    title: Cloud Hidden
+    title: Cloud Hidden Labels
     desc: "xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx
       need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy
       xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need copy xxxxx need
       copy xxxxx need copy xxxxx need copy "
     gridSize: w-2/12
-  - title: Jacumba Hot Springs Postcards
-    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
-    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
-      stitch our world together in surprising and inspiring ways.
-    gridSize: w-2/12
+  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
+    title: Jacumba Lamp
+    url: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-3/12
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
@@ -100,14 +102,20 @@ links:
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-4/12
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-3/12
+  - image: /static/img/selfpub_brandmark.jpg
+    desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
+      listen more. Never support war zone diamonds. Only laugh at funny jokes.
+      Resist Captivity. Shun the tyranny of expectations. Cry at work..just
+      once. Never give up (Except if we're really really tired). Be kind, swipe
+      off, check the stars. Be still, look up, thank the moon. Stay weird.
+      Hustle like a MF.
+    title: Self published Gilly
+    gridSize: w-5/12
+  - title: Jacumba Hot Springs Postcards
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
+    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
+      stitch our world together in surprising and inspiring ways.
+    gridSize: w-2/12
   - gridSize: w-3/12
     desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
       be understood. All we stand for and aim to give is contained within our
@@ -116,15 +124,14 @@ links:
       the silence within.
     image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
     title: Loco Love Christmas
-  - image: /static/img/selfpub_brandmark.jpg
-    desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
-      listen more. Never support war zone diamonds. Only laugh at funny jokes.
-      Resist Captivity. Shun the tyranny of expectations. Cry at work..just
-      once. Never give up (Except if we're really really tired). Be kind, swipe
-      off, check the stars. Be still, look up, thank the moon. Stay weird.
-      Hustle like a MF.
-    title: Self published
-    gridSize: w-5/12
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
+    gridSize: w-3/12
   - image: /static/img/jacumba_menu.jpg
     desc: Instead of a mono-brand, we needed to create a world filled with mountains
       and valleys, harmonies and tensions. A world that embodies both ancient
@@ -132,14 +139,7 @@ links:
       transcultural and temporal synthesis was going to fail to feel true to
       what is happening here at Jacumba.
     gridSize: w-4/12
-    title: Jacumba Hot Springs
-  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
-    title: Jacumba Hot Springs Hotel
-    url: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
-    gridSize: w-2/12
+    title: Jacumba Hot Springs Snake Menu
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs Hotel
     desc: description goes here description goes here description goes here
@@ -147,19 +147,10 @@ links:
       description goes here v description goes here v v description goes here
       description goes here v description goes here
     gridSize: w-4/12
-  - title: Self published
+  - title: Self published pacakging
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-4/12
     desc: Constantly quest to listen more.
-  - title: Self published
-    image: /static/img/self_published_2up.jpg
-    gridSize: w-4/12
-    desc: Make the same mistake as many times as we bloody well like. Use words like
-      "bloody". Fix the broken stuff. Face the unfixable. Pass the power on.
-      Make something, anything. Occasionally follow the rules. Take deep
-      breaths. Call our parents, and if we can't, call someone else's. Keep
-      secrets (or at least whisper them . Learn how to bake bread (or at least
-      banana bread).
   - title: Loco Love
     image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
     desc: A mirage is a shimmering oasis of possibilities, where the boundaries
