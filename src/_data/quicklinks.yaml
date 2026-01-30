@@ -43,6 +43,11 @@ links:
       has no limit. We are the ghost in the machine.
     image: /static/img/monier_all-that-remains.png
     gridSize: w-5/12
+  - title: Jacumba Hot Springs Postcards
+    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
+    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
+      stitch our world together in surprising and inspiring ways.
+    gridSize: w-2/12
   - title: Cloud Hidden Vessel
     url: ""
     desc: The depth of the simple act of tea is subtle and needs to be felt to be
@@ -52,11 +57,6 @@ links:
       the silence within.
     image: /static/img/jillianmchughphotography_cloudhidden_june2023_jillianmchugh_cloudhidden_product_230621-403_f4588b3c-21e6-45ba-925e-9996a961a4c0_2100x.png
     gridSize: w-4/12
-  - title: Jacumba Hot Springs Postcards
-    image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
-    desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
-      stitch our world together in surprising and inspiring ways.
-    gridSize: w-2/12
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
