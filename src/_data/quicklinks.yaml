@@ -83,6 +83,14 @@ links:
     desc: xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx
       copy goes here xxxxxx copy goes here xxxxxx copy goes here xxxxxx copy
       goes here xxxxxx copy goes here
+  - gridSize: w-3/12
+    desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
+      be understood. All we stand for and aim to give is contained within our
+      simple and humble forms. There’s a rustic simplicity and quiet contained
+      in natural texture. A sensation to be felt. A calling to pause and seek
+      the silence within.
+    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
+    title: Loco Love Christmas
   - title: Wide Open Road Billboard
     image: /static/img/img_4016.jpg
     gridSize: w-5/12
@@ -102,6 +110,13 @@ links:
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
     gridSize: w-3/12
+  - title: Krinklewood
+    desc: The vines, weathered and wise, grow with a patience born from the dance
+      between sun and soil, a slow exchange of elements that cannot be hurried.
+      Each root reaches deeper, not for more, but for what has always been
+      there, waiting just below the surface.
+    gridSize: w-2/12
+    image: /static/img/021121_krinklewood_0507_v2.jpg
   - title: Self published pacakging
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-1/12
@@ -115,26 +130,11 @@ links:
       Hustle like a MF.
     title: Self published Gilly
     gridSize: w-5/12
-  - title: Krinklewood
-    desc: The vines, weathered and wise, grow with a patience born from the dance
-      between sun and soil, a slow exchange of elements that cannot be hurried.
-      Each root reaches deeper, not for more, but for what has always been
-      there, waiting just below the surface.
-    gridSize: w-2/12
-    image: /static/img/021121_krinklewood_0507_v2.jpg
   - title: Jacumba Hot Springs Postcards
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-2/12
-  - gridSize: w-3/12
-    desc: xxxx The depth of the simple act of tea is subtle and needs to be felt to
-      be understood. All we stand for and aim to give is contained within our
-      simple and humble forms. There’s a rustic simplicity and quiet contained
-      in natural texture. A sensation to be felt. A calling to pause and seek
-      the silence within.
-    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
-    title: Loco Love Christmas
   - title: Wide Open Road Brick
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
