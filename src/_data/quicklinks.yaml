@@ -65,11 +65,12 @@ links:
     gridSize: w-2/12
   - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
     title: Jacumba Lamp
-    url: description goes here description goes here description goes here
+    url: ""
+    gridSize: w-3/12
+    desc: description goes here description goes here description goes here
       description goes here description goes here description goes here
       description goes here v description goes here v v description goes here
       description goes here v description goes here
-    gridSize: w-3/12
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
@@ -96,7 +97,7 @@ links:
     desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
       something real (anything and everything can hold significance) in
       imperfect, single colour prints. There’s no time to hesitate.
-    gridSize: w-3/12
+    gridSize: w-4/12
   - title: Wide Open Road Billboard
     image: /static/img/img_4016.jpg
     gridSize: w-5/12
