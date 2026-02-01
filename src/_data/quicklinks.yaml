@@ -91,6 +91,12 @@ links:
       the silence within.
     image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
     title: Loco Love Christmas
+  - title: Resilience
+    image: /static/img/resillience-a1-bananas.jpg
+    desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
+      something real (anything and everything can hold significance) in
+      imperfect, single colour prints. There’s no time to hesitate.
+    gridSize: w-3/12
   - title: Wide Open Road Billboard
     image: /static/img/img_4016.jpg
     gridSize: w-5/12
@@ -104,12 +110,6 @@ links:
       eye of the needle, in the central seat of the soul. Extend it out slightly
       and you find yourself. The you that’s grounded here on this particular
       patch of earth with all its dirty history.
-  - title: Resilience
-    image: /static/img/resillience-a1-bananas.jpg
-    desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
-      something real (anything and everything can hold significance) in
-      imperfect, single colour prints. There’s no time to hesitate.
-    gridSize: w-3/12
   - title: Krinklewood
     desc: The vines, weathered and wise, grow with a patience born from the dance
       between sun and soil, a slow exchange of elements that cannot be hurried.
@@ -119,7 +119,7 @@ links:
     image: /static/img/021121_krinklewood_0507_v2.jpg
   - title: Self published pacakging
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
-    gridSize: w-1/12
+    gridSize: w-3/12
     desc: Constantly quest to listen more.
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
