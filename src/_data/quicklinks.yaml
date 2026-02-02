@@ -118,10 +118,32 @@ links:
       there, waiting just below the surface.
     gridSize: w-2/12
     image: /static/img/021121_krinklewood_0507_v2.jpg
-  - title: Self published pacakging
-    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
+  - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
+    gridSize: w-2/12
+    desc: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    title: Jacumba Hot Springs Hotel
+  - image: /static/img/social11.png
+    title: Wide Open Road Menu
+    desc: xxxxxx The patron saints of a spirited exhalation. Human reminders to dig
+      deeper to excavate some poetry out of the everyday existence. The patron
+      saints of a spirited exhalation. Human reminders to dig deeper to excavate
+      some poetry out of the everyday existence. The patron saints of a spirited
+      exhalation. Human reminders to dig deeper to excavate some poetry out of
+      the everyday existence. The patron saints of a spirited exhalation. Human
+      reminders to dig deeper to excavate some poetry out of the everyday
+      existence.
     gridSize: w-3/12
-    desc: Constantly quest to listen more.
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
+    gridSize: w-2/12
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -130,28 +152,12 @@ links:
       off, check the stars. Be still, look up, thank the moon. Stay weird.
       Hustle like a MF.
     title: Self published Gilly
-    gridSize: w-5/12
+    gridSize: w-4/12
   - title: Jacumba Hot Springs Postcards
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-2/12
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-3/12
-  - image: /static/img/jacumba_menu.jpg
-    desc: Instead of a mono-brand, we needed to create a world filled with mountains
-      and valleys, harmonies and tensions. A world that embodies both ancient
-      craftsmanship and a vibrant, modern hotel experience. Anything short of a
-      transcultural and temporal synthesis was going to fail to feel true to
-      what is happening here at Jacumba.
-    gridSize: w-4/12
-    title: Jacumba Hot Springs Snake Menu
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs Hotel
     desc: description goes here description goes here description goes here
@@ -168,17 +174,18 @@ links:
       realm of what is felt....the unseen—for it's here we discover the hidden
       treasures of life and unlock new dimensions of experience.
     gridSize: w-4/12
-  - image: /static/img/social11.png
-    title: Wide Open Road
-    desc: xxxxxx The patron saints of a spirited exhalation. Human reminders to dig
-      deeper to excavate some poetry out of the everyday existence. The patron
-      saints of a spirited exhalation. Human reminders to dig deeper to excavate
-      some poetry out of the everyday existence. The patron saints of a spirited
-      exhalation. Human reminders to dig deeper to excavate some poetry out of
-      the everyday existence. The patron saints of a spirited exhalation. Human
-      reminders to dig deeper to excavate some poetry out of the everyday
-      existence.
+  - title: Self published pacakging
+    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
+    gridSize: w-3/12
+    desc: Constantly quest to listen more.
+  - image: /static/img/jacumba_menu.jpg
+    desc: Instead of a mono-brand, we needed to create a world filled with mountains
+      and valleys, harmonies and tensions. A world that embodies both ancient
+      craftsmanship and a vibrant, modern hotel experience. Anything short of a
+      transcultural and temporal synthesis was going to fail to feel true to
+      what is happening here at Jacumba.
     gridSize: w-4/12
+    title: Jacumba Hot Springs Snake Menu
   - title: Orchard Street
     gridSize: w-6/12
     desc: There is a pulse deep within the earth, steady and sure, mirroring the
@@ -199,10 +206,3 @@ links:
       eternity? Take care. Take care of each other. Take care of the earth. Be
       held by her and her heavenly bounty. And give back to her, far more than
       we take.
-  - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
-    gridSize: w-1/12
-    desc: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
-    title: Jacumba Hot Springs Hotel
