@@ -135,15 +135,14 @@ links:
       the everyday existence. The patron saints of a spirited exhalation. Human
       reminders to dig deeper to excavate some poetry out of the everyday
       existence.
-    gridSize: w-3/12
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-3/12
+    gridSize: w-4/12
+  - image: /static/img/menu-mock-up-v1.jpg
+    title: Jacumba Hot Springs menus
+    desc: description goes here description goes here description goes here
+      description goes here description goes here description goes here
+      description goes here v description goes here v v description goes here
+      description goes here v description goes here
+    gridSize: w-4/12
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -153,18 +152,19 @@ links:
       Hustle like a MF.
     title: Self published Gilly
     gridSize: w-4/12
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
+    gridSize: w-4/12
   - title: Jacumba Hot Springs Postcards
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-2/12
-  - image: /static/img/menu-mock-up-v1.jpg
-    title: Jacumba Hot Springs Hotel
-    desc: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
-    gridSize: w-4/12
   - title: Loco Love
     image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
     desc: A mirage is a shimmering oasis of possibilities, where the boundaries
