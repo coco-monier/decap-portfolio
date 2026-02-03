@@ -145,10 +145,9 @@ links:
     gridSize: w-4/12
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs menus
-    desc: description goes here description goes here description goes here
-      description goes here description goes here description goes here
-      description goes here v description goes here v v description goes here
-      description goes here v description goes here
+    desc: A shifted perspective challenges the notion of what is visible and dives
+      into the realm of what is felt....the unseen — here is where we discover
+      the hidden treasures of life and unlock new dimensions of experience.
     gridSize: w-5/12
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
