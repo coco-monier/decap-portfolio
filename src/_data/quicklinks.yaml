@@ -131,7 +131,7 @@ links:
     gridSize: w-2/12
     image: /static/img/021121_krinklewood_0507_v2.jpg
   - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
-    gridSize: w-2/12
+    gridSize: w-3/12
     desc: A mirage is a shimmering oasis of possibilities, where the boundaries
       between the seen and unseen blur, and where transformative experiences
       await those who dare venture into its ethereal embrace.
@@ -148,12 +148,10 @@ links:
       and forests and fashion and ideas endlessly cycling like a mad machine off
       the rails. That’s all. "
     gridSize: w-4/12
-  - image: /static/img/menu-mock-up-v1.jpg
-    title: Jacumba Hot Springs menus
-    desc: A shifted perspective challenges the notion of what is visible and dives
-      into the realm of what is felt....the unseen — here is where we discover
-      the hidden treasures of life and unlock new dimensions of experience.
+  - title: Loco Cake Flames
     gridSize: w-5/12
+    desc: ""
+    image: /static/img/loco-love-november-22_shot08_gif.gif
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -196,15 +194,12 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs Snake Menu
-  - title: Orchard Street
-    gridSize: w-6/12
-    desc: There is a pulse deep within the earth, steady and sure, mirroring the
-      quiet hum that moves through you, unnoticed but always present. You are
-      not separate from this pulse. It moves in you as it moves in the roots
-      that stretch through soil, in the leaves that catch the wind. There’s a
-      subtle connection, a rhythm shared between your breath and the breath of
-      the world, always in sync, though often forgotten.
-    image: /static/img/honey-and-prue-pond-large.jpg
+  - image: /static/img/menu-mock-up-v1.jpg
+    title: Jacumba Hot Springs menus
+    desc: A shifted perspective challenges the notion of what is visible and dives
+      into the realm of what is felt....the unseen — here is where we discover
+      the hidden treasures of life and unlock new dimensions of experience.
+    gridSize: w-5/12
   - title: Krinklewood
     image: /static/img/090323_krinklewood_914.jpg
     gridSize: w-7/12
