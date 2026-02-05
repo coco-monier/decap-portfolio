@@ -141,12 +141,15 @@ links:
     gridSize: w-4/12
   - title: Loco Cake Flames
     gridSize: w-5/12
-    desc: ""
+    desc: We are the troubarours and royalty of this time. We are free from social
+      conventions because we are brave enough to love ourselves, and in turn
+      love eachother. We find liberation in expressing truth and connecting with
+      others that encourage and uplift us. We are honest about what we want and
+      what feels good> We are not bound by conventions. We believe in universal
+      love. The love between a circle of friends,. queer love, love unbounded,
+      euphoric love. we know no shame for indulgence of the highest kind. We do
+      what feels good and we feel good about doing it.
     image: /static/img/loco-love-november-22_shot08_gif.gif
-  - title: Loco Love
-    image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.gif
-    desc: xxxxxxx
-    gridSize: w-4/12
   - image: /static/img/social11.png
     title: Wide Open Road Menu
     desc: "A gentle voice that beckons: wake up! Not for work, not to spend more
@@ -158,6 +161,14 @@ links:
       hum of refrigerators and supercomputers and the endless burning of money
       and forests and fashion and ideas endlessly cycling like a mad machine off
       the rails. That’s all. "
+    gridSize: w-5/12
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
     gridSize: w-4/12
   - title: Self published pacakging
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
@@ -167,7 +178,7 @@ links:
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
-    gridSize: w-2/12
+    gridSize: w-3/12
   - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
     gridSize: w-3/12
     desc: A mirage is a shimmering oasis of possibilities, where the boundaries
@@ -182,28 +193,9 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs Snake Menu
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-4/12
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs menus
     desc: A shifted perspective challenges the notion of what is visible and dives
       into the realm of what is felt....the unseen — here is where we discover
       the hidden treasures of life and unlock new dimensions of experience.
     gridSize: w-5/12
-  - title: Krinklewood
-    image: /static/img/090323_krinklewood_914.jpg
-    gridSize: w-7/12
-    desc: We only live forever. Nothing comes from nothing, nothing returns to
-      nothing. Energy cannot be created or destroyed. It can only be changed
-      from one form to another. Einstein said that. Anyway, everything is
-      something. Joy is always there, from before and till forever. So is love.
-      Life will never pass into nothingness. And so, what shall we do with
-      eternity? Take care. Take care of each other. Take care of the earth. Be
-      held by her and her heavenly bounty. And give back to her, far more than
-      we take.
