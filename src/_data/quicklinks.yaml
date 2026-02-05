@@ -130,10 +130,6 @@ links:
       there, waiting just below the surface.
     gridSize: w-2/12
     image: /static/img/021121_krinklewood_0507_v2.jpg
-  - title: Loco Cake Flames
-    gridSize: w-5/12
-    desc: ""
-    image: /static/img/loco-love-november-22_shot08_gif.gif
   - image: /static/img/selfpub_brandmark.jpg
     desc: Work hard and hardly work. Take time and waste it too. Constantly quest to
       listen more. Never support war zone diamonds. Only laugh at funny jokes.
@@ -143,6 +139,10 @@ links:
       Hustle like a MF.
     title: Self published Gilly
     gridSize: w-4/12
+  - title: Loco Cake Flames
+    gridSize: w-5/12
+    desc: ""
+    image: /static/img/loco-love-november-22_shot08_gif.gif
   - title: Wide Open Road Brick
     image: /static/img/social5.png
     desc: A state of boundless possibility, where limitations are absent and the
