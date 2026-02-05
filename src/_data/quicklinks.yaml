@@ -67,16 +67,17 @@ links:
       presence that embodies stillness. Diffusion — the movement of particles to
       achieve balance.
     gridSize: w-3/12
-  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
-    title: Jacumba Lamp
-    url: ""
-    gridSize: w-3/12
-    desc: Certain places carry a resonance, or an energy. As with any metaphysical
-      experiences, they can be difficult or near impossible to convey —
-      especially through words. When trying to authentically express the
-      inexpressable we will come across as half-baked or lost in our subjective
-      bubble of belief. If we are too playful we risk undermining the
-      authenticity of the experience.
+  - gridSize: w-3/12
+    desc: "We are the troubadours and royalty of this time. We are free from social
+      conventions because we are brave enough to love ourselves. We find
+      liberation in expressing our truth and connecting with others that
+      encourage and uplift us. We are honest about what we want and what feels
+      good. We are not bound by conventions. We believe in universal love — the
+      love between a circle of friends, queer love, love unbounded, euphoric
+      love. We know no shame for indulgence of the highest kind. We do what
+      feels good and we feel good about doing it. "
+    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
+    title: Loco Love Christmas
   - title: Yesmina
     image: /static/img/yesmina_comb2.jpg
     desc: A guide, a mirror, a vessel for transformation. An unearthing rather than
@@ -93,17 +94,16 @@ links:
       sparseness) and a small dark shape (signifying density). It is not about
       the minds interpretation. It requires a feeling to be read and
       understood."
-  - gridSize: w-3/12
-    desc: "We are the troubadours and royalty of this time. We are free from social
-      conventions because we are brave enough to love ourselves. We find
-      liberation in expressing our truth and connecting with others that
-      encourage and uplift us. We are honest about what we want and what feels
-      good. We are not bound by conventions. We believe in universal love — the
-      love between a circle of friends, queer love, love unbounded, euphoric
-      love. We know no shame for indulgence of the highest kind. We do what
-      feels good and we feel good about doing it. "
-    image: /static/img/holiday_collection_locolove_e159b624-15a7-483e-8539-ad20cdd1d308.webp
-    title: Loco Love Christmas
+  - image: /static/img/screenshot-2025-10-30-at-2.16.39 pm.png
+    title: Jacumba Lamp
+    url: ""
+    gridSize: w-3/12
+    desc: Certain places carry a resonance, or an energy. As with any metaphysical
+      experiences, they can be difficult or near impossible to convey —
+      especially through words. When trying to authentically express the
+      inexpressable we will come across as half-baked or lost in our subjective
+      bubble of belief. If we are too playful we risk undermining the
+      authenticity of the experience.
   - title: Resilience
     image: /static/img/resillience-a1-bananas.jpg
     desc: Poetic power viewed in unfiltered simplicity. Frantic attempts to capture
