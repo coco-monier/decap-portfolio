@@ -143,13 +143,9 @@ links:
     gridSize: w-5/12
     desc: ""
     image: /static/img/loco-love-november-22_shot08_gif.gif
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
+  - title: Loco Love
+    image: /static/img/mix_escalier-ring_fiera-choker_simmer-ring.gif
+    desc: xxxxxxx
     gridSize: w-4/12
   - image: /static/img/social11.png
     title: Wide Open Road Menu
@@ -163,29 +159,21 @@ links:
       and forests and fashion and ideas endlessly cycling like a mad machine off
       the rails. That’s all. "
     gridSize: w-4/12
+  - title: Self published pacakging
+    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
+    gridSize: w-2/12
+    desc: Constantly quest to listen more.
   - title: Jacumba Hot Springs Postcards
     image: /static/img/monier_jacumba_one-page-promo_cd04-print-1.gif
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-2/12
-  - title: Loco Love
-    image: /static/img/05e8cf6b-00c5-4826-91f9-5fc40931d15a-1.gif
-    desc: "If you find this gem that sparkles inside you the world will be a better
-      place. Fast-tracked attention, fast-tracked connection are empty calories.
-      Our time on earth is sacred. We don’t have time for all this bullshit
-      repetition of algorithms and strategies. Shoot from the hip. Live and let
-      live. "
-    gridSize: w-4/12
   - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
     gridSize: w-3/12
     desc: A mirage is a shimmering oasis of possibilities, where the boundaries
       between the seen and unseen blur, and where transformative experiences
       await those who dare venture into its ethereal embrace.
     title: Jacumba Snake IMage
-  - title: Self published pacakging
-    image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
-    gridSize: w-3/12
-    desc: Constantly quest to listen more.
   - image: /static/img/jacumba_menu.jpg
     desc: Instead of a mono-brand, we needed to create a world filled with mountains
       and valleys, harmonies and tensions. A world that embodies both ancient
@@ -194,6 +182,14 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs Snake Menu
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
+    gridSize: w-4/12
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs menus
     desc: A shifted perspective challenges the notion of what is visible and dives
