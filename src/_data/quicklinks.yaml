@@ -179,11 +179,9 @@ links:
     desc: Find the cross-overs, the borderlands, the kaleidoscopes and montages that
       stitch our world together in surprising and inspiring ways.
     gridSize: w-3/12
-  - image: /static/img/screenshot-2025-10-30-at-2.16.18 pm.png
-    gridSize: w-1/12
-    desc: A mirage is a shimmering oasis of possibilities, where the boundaries
-      between the seen and unseen blur, and where transformative experiences
-      await those who dare venture into its ethereal embrace.
+  - image: /static/img/holiday_collection_christmas_1_1024x1024.webp
+    gridSize: w-3/12
+    desc: xxxxxx
     title: Jacumba Snake IMage
   - image: /static/img/menu-mock-up-v1.jpg
     title: Jacumba Hot Springs menus
@@ -199,3 +197,6 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs Snake Menu
+  - title: "Loco Love "
+    image: /static/img/250925_locolove15946-1.jpg
+    gridSize: w-5/12
