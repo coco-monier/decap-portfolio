@@ -162,9 +162,14 @@ links:
       and forests and fashion and ideas endlessly cycling like a mad machine off
       the rails. That’s all. "
     gridSize: w-5/12
-  - title: Cloud Hidden Tea pots
+  - title: Wide Open Road Brick
+    image: /static/img/social5.png
+    desc: A state of boundless possibility, where limitations are absent and the
+      entire world, or even the universe, is open for exploration and
+      experience. It takes the mindset of ‘wide open road’ and poses a deeper
+      sense of existential freedom—where one is not constrained by societal
+      norms, physical boundaries, or personal inhibitions.
     gridSize: w-4/12
-    image: /static/img/studio_bundle_1_-3_2100x.png
   - title: Self published pacakging
     image: /static/img/snapinsta.app_320391743_1392283374512563_2168092715681103402_n_1080.jpg
     gridSize: w-2/12
@@ -182,11 +187,3 @@ links:
       stitch our world together in surprising and inspiring ways.
     gridSize: w-2/12
     title: Jacumba Hot Springs Snake Menu
-  - title: Wide Open Road Brick
-    image: /static/img/social5.png
-    desc: A state of boundless possibility, where limitations are absent and the
-      entire world, or even the universe, is open for exploration and
-      experience. It takes the mindset of ‘wide open road’ and poses a deeper
-      sense of existential freedom—where one is not constrained by societal
-      norms, physical boundaries, or personal inhibitions.
-    gridSize: w-2/12
