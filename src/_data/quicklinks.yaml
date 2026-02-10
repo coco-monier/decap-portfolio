@@ -183,11 +183,8 @@ links:
     gridSize: w-3/12
     desc: xxxxxx
     title: Jacumba Snake IMage
-  - image: /static/img/menu-mock-up-v1.jpg
-    title: Jacumba Hot Springs menus
-    desc: A shifted perspective challenges the notion of what is visible and dives
-      into the realm of what is felt....the unseen — here is where we discover
-      the hidden treasures of life and unlock new dimensions of experience.
+  - title: "Loco Love "
+    image: /static/img/250925_locolove15946-1.jpg
     gridSize: w-5/12
   - image: /static/img/jacumba_menu.jpg
     desc: Instead of a mono-brand, we needed to create a world filled with mountains
@@ -197,6 +194,3 @@ links:
       what is happening here at Jacumba.
     gridSize: w-4/12
     title: Jacumba Hot Springs Snake Menu
-  - title: "Loco Love "
-    image: /static/img/250925_locolove15946-1.jpg
-    gridSize: w-5/12
