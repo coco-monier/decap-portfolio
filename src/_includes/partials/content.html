@@ -1,3 +1,5 @@
+{% set mob_half = "w-1/12 w-2/12 w-3/12" %}
+
 <div id="home-grid" class="w-full">
 
     <div class="iso-sizer w-1/12"></div>
@@ -10,10 +12,17 @@
             {% else %}
                 {% set gridSize = item.gridSize %}
             {% endif %}
+            {% if item.gridSizeMob %}
+                {% set gridSizeMob = item.gridSizeMob %}
+            {% elif gridSize in mob_half %}
+                {% set gridSizeMob = 'w-1/2' %}
+            {% else %} 
+                {% set gridSizeMob = 'w-full' %}
+            {% endif %}
 
-            <div class="iso-item {{ gridSize }} float-left">
+            <div class="iso-item {{ gridSizeMob}} md:{{ gridSize }} float-left">
                 <img class="h-auto w-full max-w-full" src="{{item.image}}" alt="{{item.desc}}">    
-                <p class="p-1 pb-4 leading-none">{{item.desc}}</p>
+                <p class="text-sm md:text-base p-1 pb-4 leading-none md:leading-none">{{item.desc}}</p>
             </div>
             
 
