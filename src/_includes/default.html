@@ -25,9 +25,11 @@
 
     {% include "./partials/footer.html" %}
 
+    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
     <script src="https://unpkg.com/infinite-scroll@5/dist/infinite-scroll.pkgd.min.js"></script>
     <script src="/static/js/isotope.pkgd.min.js"></script>
-    <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <script src="/static/js/alpine.js"></script>
+
     <script>
       var iso;
 
@@ -56,28 +58,32 @@
     </script>
 
     <script>
-  const grid = document.querySelector('#home-grid');
+      const grid = document.querySelector('#home-grid');
 
-  const infScroll = new InfiniteScroll( grid, {
-    path() {
-      const url = new URL(window.location.href);
-      url.searchParams.set('__dup', String(this.loadCount + 1)); // cache-bust
-      return url.toString();
-    },
-    append: '.iso-item',
-    history: false,
-    checkLastPage: false,
-  });
+      const infScroll = new InfiniteScroll( grid, {
+        path() {
+          const url = new URL(window.location.href);
+          url.searchParams.set('__dup', String(this.loadCount + 1)); // cache-bust
+          return url.toString();
+        },
+        append: '.iso-item',
+        history: false,
+        checkLastPage: false,
+      });
 
-  // if you're using Isotope, re-layout after append
-  infScroll.on('append', function( body, path, items ) {
-    iso.appended(items);
-    iso.layout();
-  });
-</script>
+      // if you're using Isotope, re-layout after append
+      infScroll.on('append', function( body, path, items ) {
+        iso.appended(items);
+        iso.layout();
+      });
 
+      // Tooltip 
+      tippy(
+        '[data-tippy-content]', {
+          followCursor: true
+        });
+    </script>
 
-    <script src="/static/js/alpine.js"></script>
 
     {% if path == "home" %}
       <!-- Netlify Identity Widget -->

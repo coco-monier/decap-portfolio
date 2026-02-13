@@ -10,9 +10,92 @@
 
         {% if navigation.items and navigation.items[0] %}
             {% set primary_link = navigation.items[0] %}
-            <a class="text-ml no-underline hover:text-indigo-500" href="{{ primary_link.url }}">
-                {{ primary_link.text }}
-            </a>
+            <div
+                class="flex items-center gap-2"
+                x-data="{
+                    open: false,
+                    copied: false,
+                    copyTimer: null,
+                    showCopied() {
+                        this.copied = true;
+                        clearTimeout(this.copyTimer);
+                        this.copyTimer = setTimeout(() => {
+                            this.copied = false;
+                        }, 5000);
+                    },
+                    copyPrimaryLink() {
+                        const rawValue = this.$refs.primaryLink?.getAttribute('href') || '';
+                        if (!rawValue) {
+                            return;
+                        }
+                        const value = rawValue.toLowerCase().startsWith('mailto:')
+                            ? rawValue.slice(7).split('?')[0]
+                            : rawValue;
+
+                        const copyWithFallback = () => {
+                            const tempInput = document.createElement('textarea');
+                            tempInput.value = value;
+                            tempInput.setAttribute('readonly', '');
+                            tempInput.style.position = 'absolute';
+                            tempInput.style.left = '-9999px';
+                            document.body.appendChild(tempInput);
+                            tempInput.select();
+                            document.execCommand('copy');
+                            document.body.removeChild(tempInput);
+                            this.showCopied();
+                        };
+
+                        if (navigator.clipboard && window.isSecureContext) {
+                            navigator.clipboard.writeText(value)
+                                .then(() => this.showCopied())
+                                .catch(() => copyWithFallback());
+                            return;
+                        }
+
+                        copyWithFallback();
+                    }
+                }"
+                @mouseenter="open = true"
+                @mouseleave="open = false"
+                @focusin="open = true"
+                @focusout="open = false">
+                <a class="text-ml no-underline hover:text-indigo-500" href="{{ primary_link.url }}" x-ref="primaryLink"
+                    data-tippy-content="Email copied to clipboard">
+                    {{ primary_link.text }}
+                </a>
+                <button
+                    type="button"
+                    @click.stop.prevent="copyPrimaryLink()"
+                    :class="open ? 'opacity-100 pointer-events-auto' : 'opacity-0 pointer-events-none'"
+                    class="relative w-4 h-4 shrink-0 transition-opacity duration-200"
+                    aria-label="Copy link to clipboard">
+                    <svg
+                        :class="copied ? 'opacity-0' : 'opacity-100'"
+                        class="absolute inset-0 transition-opacity duration-200"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M4 1.5H3a2 2 0 0 0-2 2V14a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V3.5a2 2 0 0 0-2-2h-1v1h1a1 1 0 0 1 1 1V14a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V3.5a1 1 0 0 1 1-1h1z" />
+                        <path
+                            d="M9.5 1a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5h-3a.5.5 0 0 1-.5-.5v-1a.5.5 0 0 1 .5-.5zm-3-1A1.5 1.5 0 0 0 5 1.5v1A1.5 1.5 0 0 0 6.5 4h3A1.5 1.5 0 0 0 11 2.5v-1A1.5 1.5 0 0 0 9.5 0z" />
+                    </svg>
+                    <svg
+                        :class="copied ? 'opacity-100' : 'opacity-0'"
+                        class="absolute inset-0 transition-opacity duration-200"
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="16"
+                        height="16"
+                        fill="currentColor"
+                        viewBox="0 0 16 16">
+                        <path
+                            d="M10.97 4.97a.75.75 0 0 1 1.07 1.05l-3.99 4.99a.75.75 0 0 1-1.08.02L4.324 8.384a.75.75 0 1 1 1.06-1.06l2.094 2.093 3.473-4.425z" />
+                    </svg>
+                </button>
+            </div>
+            
         {% endif %}
     </nav>
 </div>

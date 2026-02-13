@@ -20,9 +20,13 @@
                 {% set gridSizeMob = 'w-full' %}
             {% endif %}
 
-            <div class="iso-item {{ gridSizeMob}} md:{{ gridSize }} float-left">
+            <div class="iso-item {{ gridSizeMob}} md:{{ gridSize }} float-left relative">
                 <img class="h-auto w-full max-w-full" src="{{item.image}}" alt="{{item.desc}}">    
                 <p class="text-sm md:text-base p-1 pb-4 leading-none md:leading-none">{{item.desc}}</p>
+
+                {% if item.url %}
+                <a href="{{ item.url }}" class="absolute inset-0"></a>
+                {% endif %}
             </div>
             
 
