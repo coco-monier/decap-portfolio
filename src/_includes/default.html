@@ -31,57 +31,85 @@
     <script src="/static/js/alpine.js"></script>
 
     <script>
-      var iso;
+      var iso = null;
 
       document.addEventListener('DOMContentLoaded', function () {
-        var elem = document.querySelector('#home-grid');
-        if (!elem) {
-          return;
-        }
+        var grid = document.querySelector('#home-grid');
 
-        iso = new Isotope(elem, {
-          itemSelector: '.iso-item',
-          percentPosition: true,
-          masonry: {
-            // use outer width of grid-sizer for columnWidth
-            columnWidth: '.iso-sizer'
-          }
-        });
+        if (grid) {
+          var initialImages = Array.prototype.slice.call(
+            grid.querySelectorAll('.iso-item img')
+          );
 
-        if (typeof imagesLoaded === 'function') {
-          // wait for images so initial layout matches final sizes
-          imagesLoaded(elem, function () {
-            iso.layout();
+          initialImages.forEach(function (img, index) {
+            if (index < 4) {
+              img.setAttribute('loading', 'eager');
+              if (index === 0) {
+                img.setAttribute('fetchpriority', 'high');
+              } else {
+                img.removeAttribute('fetchpriority');
+              }
+            } else {
+              img.setAttribute('loading', 'lazy');
+              img.setAttribute('decoding', 'async');
+              img.removeAttribute('fetchpriority');
+            }
           });
+
+          var initIsotope = function () {
+            iso = new Isotope(grid, {
+              itemSelector: '.iso-item',
+              percentPosition: true,
+              masonry: {
+                // use outer width of grid-sizer for columnWidth
+                columnWidth: '.iso-sizer'
+              }
+            });
+            iso.layout();
+          };
+
+          // only gate initial startup on initial in-DOM images
+          if (typeof imagesLoaded === 'function') {
+            imagesLoaded(grid, { background: false }, function () {
+              initIsotope();
+            });
+          } else {
+            initIsotope();
+          }
+
+          if (typeof InfiniteScroll === 'function') {
+            var infScroll = new InfiniteScroll(grid, {
+              path() {
+                const url = new URL(window.location.href);
+                url.searchParams.set('__dup', String(this.loadCount + 1)); // cache-bust
+                return url.toString();
+              },
+              append: '.iso-item',
+              history: false,
+              checkLastPage: false,
+            });
+
+            infScroll.on('append', function (body, path, items) {
+              var applyAppendedLayout = function () {
+                if (!iso) {
+                  return;
+                }
+                iso.appended(items);
+                iso.layout();
+              };
+
+              if (typeof imagesLoaded === 'function') {
+                imagesLoaded(items, function () {
+                  applyAppendedLayout();
+                });
+                return;
+              }
+
+              applyAppendedLayout();
+            });
+          }
         }
       });
-    </script>
-
-    <script>
-      const grid = document.querySelector('#home-grid');
-
-      const infScroll = new InfiniteScroll( grid, {
-        path() {
-          const url = new URL(window.location.href);
-          url.searchParams.set('__dup', String(this.loadCount + 1)); // cache-bust
-          return url.toString();
-        },
-        append: '.iso-item',
-        history: false,
-        checkLastPage: false,
-      });
-
-      // if you're using Isotope, re-layout after append
-      infScroll.on('append', function( body, path, items ) {
-        iso.appended(items);
-        iso.layout();
-      });
-
-      // Tooltip 
-      tippy(
-        '[data-tippy-content]', {
-          followCursor: true
-        });
     </script>
 
 
