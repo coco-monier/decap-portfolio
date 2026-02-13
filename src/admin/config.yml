@@ -61,7 +61,7 @@ collections:
               - { label: Description, name: desc, widget: string, required: false }
               - { label: Image, name: image, widget: image }
               - { label: Grid Size, name: gridSize, widget: "select", options: ["w-1/12","w-2/12","w-3/12","w-4/12","w-5/12","w-6/12","w-7/12","w-full"]}
-              - { label: Mobile Grid Size, name: gridSizeMob, widget: "select", options: ["w-1/2","w-full"]}
+              - { label: Mobile Grid Size, name: gridSizeMob, widget: "select", options: ["w-1/2","w-full"], required: false}
       - label: "Global Settings"
         name: "settings"
         file: "src/_data/settings.yaml"
