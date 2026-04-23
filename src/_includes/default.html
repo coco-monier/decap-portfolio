@@ -16,11 +16,12 @@
       <link rel="stylesheet" type="text/css" href="/static/css/prism-tomorrow.css">
     {% endif %}
     {% if cover %}
-    <meta property="og:image" content="{{ env.base.img + cover }}"/>
+      <meta property="og:image" content="{{ env.base.img + cover }}"/>
     {% endif %}
 
     {% include "./partials/fonts.html" %}
-    
+    {% include "./partials/google-analytics.html" %}
+
   </head>
   <body class="bg-white">
     {% include "./partials/navbar.html" %}
